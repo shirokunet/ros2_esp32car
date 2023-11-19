@@ -1,12 +1,18 @@
 # ros2_esp32car
 RC Car with micro-ROS and ESP32 
 
+https://github.com/shirokunet/ros2_esp32car/assets/36523448/f5150fb2-e22d-48d4-ae6e-6ca5d139a4a1
+
 ## Dependency
 - ROS2 Humble
 - micro_ros_arduino v2.0.7-humble
 
 ## Prepare Hardware
 ### Build a your own bot
+![PXL_20231119_142233976](https://github.com/shirokunet/ros2_esp32car/assets/36523448/72c72169-ab54-4748-a9e3-99f5716489ad)
+
+![PXL_20231119_143026900](https://github.com/shirokunet/ros2_esp32car/assets/36523448/113d2118-dc7a-4b4e-a440-f3889d6b4d7c)
+
 I bought below parts.
 - ¥1,600 [ESP32-DevKitC-32E](https://akizukidenshi.com/catalog/g/gM-15673/)
 - ¥550 [DRV8835](https://akizukidenshi.com/catalog/g/gK-09848/)
